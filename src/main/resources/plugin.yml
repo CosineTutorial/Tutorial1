@@ -1,0 +1,17 @@
+name: Tutorial1
+main: kr.cosine.tutorial.Tutorial1
+version: 1.0-SNAPSHOT
+author: Cosine_A
+description: Tutorial Plugin
+
+commands:
+  테스트:
+    description: '테스트 명령어입니다.'
+    aliases:
+      - 'test'
+      - 'xptmxm'
+    permission: 'op'
+  텔레포트:
+    aliases:
+      - '티피'
+    permission: 'op'
